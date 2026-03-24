@@ -54,8 +54,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-👤 Author
-
+**👤 Author**
 Karthik
 
 GitHub: @karthikeya4167
