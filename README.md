@@ -53,3 +53,8 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
+
+👤 Author
+Karthik
+
+GitHub: @karthikeya4167
